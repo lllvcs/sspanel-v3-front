@@ -1,3 +1,4 @@
+ok，接下来就是转载之路，并在其中写一些小白遇到的坑，并如何解决的。
 演示环境：CentOS 6 X64
 1.首先通过 SSH 连接到远程服务器，安装 lnmp 一键包。
 wget http://soft.vpser.net/lnmp/lnmp1.2-full.tar.gz
